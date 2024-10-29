@@ -6,9 +6,10 @@ This project solves a simplified version of **Shamir's Secret Sharing** using **
    ```bash
    git clone https://github.com/Simmamudi-Ajay/Catalog_Assessment.git
 
-2.**OUTPUT**:  
-   Secret for Test Case 1: 3
-   Secret for Test Case 2: 79836264046592
+## Example Output
+Secret for Test Case 1: 3
+Secret for Test Case 2: 79836264046592
+
 
 
 
