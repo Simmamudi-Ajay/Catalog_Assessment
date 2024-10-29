@@ -1,6 +1,14 @@
-This project solves a simplified version of Shamir's Secret Sharing using Lagrange Interpolation to find the constant term c of a polynomial. It decodes the polynomial's encoded roots (given in various number bases) and determines the secret constant using a set of at least k decoded points. The project reads a JSON file for input and outputs the secret constant term.
+# Shamir's Secret Sharing Implementation
 
-How to Run
-Clone the repository and navigate to its directory.
-Run node index.js to execute the code.
-git clone repository link:https://github.com/Simmamudi-Ajay/Catalog_Assessment/edit/main/README.md
+This project solves a simplified version of **Shamir's Secret Sharing** using **Lagrange Interpolation** to find the constant term `c` of a polynomial. It decodes the polynomial's encoded roots (given in various number bases) and determines the secret constant using a set of at least `k` decoded points. The project reads a JSON file for input and outputs the secret constant term.
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Simmamudi-Ajay/Catalog_Assessment.git
+
+2.**OUTPUT**:  
+   Secret for Test Case 1: 3
+   Secret for Test Case 2: 79836264046592
+
+
+
