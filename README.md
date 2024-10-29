@@ -5,6 +5,10 @@ This project solves a simplified version of **Shamir's Secret Sharing** using **
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Simmamudi-Ajay/Catalog_Assessment.git
+   
+## Run the code
+node index.js
+
 
 ## Test Cases
 
